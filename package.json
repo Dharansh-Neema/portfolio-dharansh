@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-dharansh",
+  "version": "1.0.0",
+  "description": "This is portfolio repo to demonstrate all my projects and works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dharansh-Neema/portfolio-dharansh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dharansh-Neema/portfolio-dharansh/issues"
+  },
+  "homepage": "https://github.com/Dharansh-Neema/portfolio-dharansh#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
