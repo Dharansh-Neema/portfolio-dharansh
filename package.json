@@ -4,7 +4,8 @@
   "description": "This is portfolio repo to demonstrate all my projects and works",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nodemon app.js",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
